@@ -94,8 +94,6 @@ Only Batch Normalization affine parameters are updated during test-time adaptati
 
 │   ├── resnet18\_cifar100.pth
 
-│   └── resnet50\_imagenet.pth
-
 ├── docs/
 
 │   ├── report.pdf
@@ -105,8 +103,6 @@ Only Batch Normalization affine parameters are updated during test-time adaptati
 │    └── presentation\_2.pdf
 
 ├── README.md
-
-└── requirements.txt
 
 ```
 
@@ -183,10 +179,6 @@ git clone https://github.com/yourusername/test-time-entropy-minimization.git
 2\. Install dependencies
 
 
-
-```bash
-
-pip install -r requirements.txt
 
 ```
 
